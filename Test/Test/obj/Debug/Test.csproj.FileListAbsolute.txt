@@ -1,0 +1,7 @@
+F:\LTI .NET\Test\Test\bin\Debug\Test.exe.config
+F:\LTI .NET\Test\Test\bin\Debug\Test.exe
+F:\LTI .NET\Test\Test\bin\Debug\Test.pdb
+F:\LTI .NET\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\LTI .NET\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\LTI .NET\Test\Test\obj\Debug\Test.exe
+F:\LTI .NET\Test\Test\obj\Debug\Test.pdb
